@@ -34,4 +34,4 @@ We aim to provide helpful tools but cannot guarantee specific outcomes and are n
 Terms may be updated as the app evolves. Continued use indicates acceptance of updated terms.
 
 ### 11. Contact
-jstarrapps@yahoo.com
+jstarapps@yahoo.com
